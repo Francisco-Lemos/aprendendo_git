@@ -1,0 +1,1 @@
+print("Isto é para aprendizado")
