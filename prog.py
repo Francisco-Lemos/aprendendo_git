@@ -7,3 +7,4 @@ print("Nova atualização")
 #mudando coisas
 for i in range(1, 50):
     print(i)
+    print("alteração")
