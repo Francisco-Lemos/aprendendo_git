@@ -1,1 +1,1 @@
-print("Isto é para aprendizado")
+print("Isto é para aprendizado de verdade")
